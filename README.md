@@ -11,13 +11,13 @@ My background in computer science has fueled my passion for cybersecurity, and I
 
 | Skill                                         | Description                |
 |-----------------------------------------------|----------------------------|
-| Penetration Testing                           | Proficient in identifying and exploiting vulnerabilities in networks and systems.|
-| Networking Knowledge                          | Solid understanding of TCP/IP, network protocols, and traffic analysis.|
-| Enumeration and Scanning                      | Skilled in information gathering, service enumeration, and vulnerability scanning.|
-| Exploitation Techniques                       | Experience with exploitation methodologies and tools.|
-| Web Application Security                      | Familiarity with common web vulnerabilities like SQL injection, XSS, and authentication bypass.|
-| Basic Linux and Windows Administration        | Understanding system commands, configuration, and security.|
-| Hands-On Practice                             | Completed CTF challenges on TryHackMe, including "Blue," "Ice," "Retro," and more, showcasing practical skills. |
+| **Penetration Testing**                           | Proficient in identifying and exploiting vulnerabilities in networks and systems.|
+| **Networking Knowledge**                          | Solid understanding of TCP/IP, network protocols, and traffic analysis.|
+| **Enumeration and Scanning**                      | Skilled in information gathering, service enumeration, and vulnerability scanning.|
+| **Exploitation Techniques**                       | Experience with exploitation methodologies and tools.|
+| **Web Application Security**                      | Familiarity with common web vulnerabilities like SQL injection, XSS, and authentication bypass.|
+| **Basic Linux and Windows Administration**        | Understanding system commands, configuration, and security.|
+| **Hands-On Practice**                             | Completed CTF challenges on TryHackMe, including "Blue," "Ice," "Retro," and more, showcasing practical skills. |
 
 ## Tools
 
