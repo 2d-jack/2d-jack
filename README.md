@@ -21,14 +21,7 @@ My background in computer science has fueled my passion for cybersecurity, and I
 
 ## Tools
 
-<img align="left" alt="Nmap" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Nmap_logo.svg" />
-<img align="left" alt="Nessus" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Tenable_Nessus_Logo.png" />
-<img align="left" alt="Metasploit" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Metasploit_Logo.png" />
-<img align="left" alt="Burp Suite" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burp_Suite_Logo.svg/600px-Burp_Suite_Logo.svg.png" />
-<img align="left" alt="Wireshark" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Wireshark_logo_2020.png" />
-<img align="left" alt="John the Ripper" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/John_the_Ripper_logo.png" />
-<img align="left" alt="Hydra" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/THC-Hydra-logo.svg" />
-<br />
+**Nmap, Nessus, Metasploit, Burp Suite, Wireshark, John the Ripper, Hydra**
 
 ## Certifications
 
