@@ -27,6 +27,7 @@ My background in computer science has fueled my passion for cybersecurity, and I
 
 <div>
   <img src="https://img.shields.io/badge/-eJPT%20v2-000000?&style=for-the-badge&logo=Elite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ICCA%20-000000?&style=for-the-badge&logo=Elite&logoColor=white" />
   <img src="https://img.shields.io/badge/-TryHackMe%20Blue-4A90E2?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
   <img src="https://img.shields.io/badge/-TryHackMe%20Ice-4A90E2?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
   <img src="https://img.shields.io/badge/-TryHackMe%20Retro-4A90E2?&style=for-the-badge&logo=TryHackMe&logoColor=white" /> 
