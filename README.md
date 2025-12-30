@@ -7,7 +7,7 @@ I have completed a diploma in Computer Science and enjoy exploring complex compu
 
 ## Objective
 
-My background in computer science has fueled my passion for cybersecurity, and I am now focused on building a career in this field, aiming to join the Red Team as a security expert.
+With a background in Computer Science and a deep passion for cybersecurity, I am specializing in DevSecOps, focusing on bridging the gap between development and security through automation, robust defensive strategies, and proactive threat management.
 
 ## Skills
 
