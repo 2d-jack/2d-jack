@@ -59,7 +59,7 @@ With a background in Computer Science and a deep passion for cybersecurity, I am
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=2d-jack&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=2d-jack&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=2d-jack&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
 
 
 ###
@@ -71,7 +71,7 @@ With a background in Computer Science and a deep passion for cybersecurity, I am
 </picture>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=2d-jack&icon=5&color=4)](https://visitcount.itsvg.in)
