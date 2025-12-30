@@ -56,8 +56,6 @@ With a background in Computer Science and a deep passion for cybersecurity, I am
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
