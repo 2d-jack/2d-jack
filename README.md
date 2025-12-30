@@ -41,11 +41,11 @@ With a background in Computer Science and a deep passion for cybersecurity, I am
 ## Certifications
 
 <div>
-  <img src="https://img.shields.io/badge/-eJPT%20v2-000000?&style=for-the-badge&logo=Elite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ICCA%20-000000?&style=for-the-badge&logo=Elite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-THM%20JrPenetrationTester-4A90E2?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TryHackMe%20Ice-4A90E2?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TryHackMe%20Retro-4A90E2?&style=for-the-badge&logo=TryHackMe&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-eJPT%20v2-000000?&style=for-the-badge&logo=Insecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ICCA-000000?&style=for-the-badge&logo=Cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jr%20Penetration%20Tester-4A90E2?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cyber%20Security%20101-4A90E2?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pre%20Security-4A90E2?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </div>
 ---
 
