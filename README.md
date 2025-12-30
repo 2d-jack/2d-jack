@@ -62,3 +62,6 @@ My background in computer science has fueled my passion for cybersecurity, and I
 
 ###
 
+---
+[![](https://visitcount.itsvg.in/api?id=2d-jack&icon=5&color=4)](https://visitcount.itsvg.in)
+
