@@ -39,7 +39,7 @@ jobs:
       - name: Generate Custom Achievements SVG
         uses: actions/github-script@v7
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.METRICS_TOKEN }}
           script: |
             const fs = require('fs');
             
