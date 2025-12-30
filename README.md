@@ -11,6 +11,7 @@
 ![Achievements](metrics.plugin.achievements.svg)
 -->
 ## Objective
+
 #### With a background in Computer Science and a deep passion for cybersecurity, I am specializing in DevSecOps, focusing on bridging the gap between development and security through automation, robust defensive strategies, and proactive threat management.
 
 ## Certifications
