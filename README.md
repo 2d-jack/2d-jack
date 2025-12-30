@@ -7,12 +7,12 @@
 
 <table border="0">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=2d-jack&theme=rose&hide_border=false&include_all_commits=true&count_private=true" width="100%" /></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=2d-jack&theme=rose&hide_border=false" width="100%" /></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=2d-jack&theme=rose&hide_border=false&include_all_commits=true&count_private=true" /></td>
+    <td width="50%"><img src="https://nirzak-streak-stats.vercel.app/?user=2d-jack&theme=rose&hide_border=false" /></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2d-jack&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" /></td>
-    <td><img src="https://github-contributor-stats.vercel.app/api?username=2d-jack&limit=5&theme=rose_pine&combine_all_yearly_contributions=true" width="100%" /></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2d-jack&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></td>
+    <td width="50%"><img src="https://github-contributor-stats.vercel.app/api?username=2d-jack&limit=5&theme=rose_pine&combine_all_yearly_contributions=true" /></td>
   </tr>
 </table>
 
