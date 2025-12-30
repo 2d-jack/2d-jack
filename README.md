@@ -11,15 +11,14 @@ My background in computer science has fueled my passion for cybersecurity, and I
 
 ## Skills
 
-| Skill                                         | Description                |
-|-----------------------------------------------|----------------------------|
-| **Penetration Testing**                           | Proficient in identifying and exploiting vulnerabilities in networks and systems.|
-| **Networking Knowledge**                          | Solid understanding of TCP/IP, network protocols, and traffic analysis.|
-| **Enumeration and Scanning**                      | Skilled in information gathering, service enumeration, and vulnerability scanning.|
-| **Exploitation Techniques**                       | Experience with exploitation methodologies and tools.|
-| **Web Application Security**                      | Familiarity with common web vulnerabilities like SQL injection, XSS, and authentication bypass.|
-| **Basic Linux and Windows Administration**        | Understanding system commands, configuration, and security.|
-| **Hands-On Practice**                             | Completed CTF challenges on TryHackMe, including "Blue," "Ice," "Retro," and more, showcasing practical skills. |
+| Skill | Description |
+| :--- | :--- |
+| **Automated Security Pipelines** | Integrating SAST, DAST, and Secret Scanning into CI/CD workflows to catch vulnerabilities before deployment. |
+| **Defensive Architecture & Hardening** | Applying Blue Team principles to harden Linux/Windows systems, Cloud environments, and Containerized workloads (Docker/K8s). |
+| **Infrastructure as Code (IaC) Security** | Using tools like Checkov, Terrascan, SonarQube to ensure Terraform/Ansible scripts follow security best practices. |
+| **SIEM & Threat Detection** | Experience monitoring network traffic and system logs to identify and respond to suspicious activity (SOC/Blue Team fundamentals). |
+| **Vulnerability Management** | Orchestrating the end-to-end lifecycle of vulnerability discovery, triage, and automated remediation. |
+| **Cloud Security Posture (CSPM)** | Managing IAM roles, VPC security groups, and encryption at rest/transit within AWS, Azure, or GCP. |
 
 ## Tools
 
