@@ -57,7 +57,7 @@ My background in computer science has fueled my passion for cybersecurity, and I
 ###
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=2d-jack&icon=5&color=4)](https://visitcount.itsvg.in)
