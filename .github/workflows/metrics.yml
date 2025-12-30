@@ -23,6 +23,7 @@ jobs:
       # Step 2: New Achievements Plugin
       - name: Achievements
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
