@@ -20,9 +20,23 @@ With a background in Computer Science and a deep passion for cybersecurity, I am
 | **Vulnerability Management** | Orchestrating the end-to-end lifecycle of vulnerability discovery, triage, and automated remediation. |
 | **Cloud Security Posture (CSPM)** | Managing IAM roles, VPC security groups, and encryption at rest/transit within AWS, Azure, or GCP. |
 
-## Tools
+## Tools & Technologies
+### ⚙️ DevSecOps & Automation (Core)
+* **CI/CD Pipelines:** GitHub Actions, GitLab CI, Jenkins
+* **Security Scanning (SAST/SCA):** Snyk, SonarQube, Semgrep, Trivy
+* **Infrastructure as Code (IaC):** Terraform, Ansible, Checkov, Terrascan
+* **Container Security:** Docker, Kubernetes (K8s), Aqua Security (Trivy), Grype
+* **Secrets Management:** HashiCorp Vault, AWS Secrets Manager
 
-**Nmap, Nessus, Metasploit, Burp Suite, Wireshark, John the Ripper, Hydra**
+### 🛡️ Security Operations (Blue Team)
+* **Monitoring & SIEM:** Splunk, ELK Stack (Elasticsearch, Logstash, Kibana), Wazuh
+* **Network Security:** Wireshark, Zeek, Snort, Suricata, pfSense
+* **Vulnerability Management:** Tenable Nessus, OpenVAS, Qualys
+* **Endpoint Defense:** Microsoft Defender for Endpoint, CrowdStrike (Foundations), OSSEC
+
+### 🔍 Offensive Security (Red Team)
+* **Scanning & Enumeration:** Nmap, Burp Suite, OWASP ZAP
+* **Exploitation & Research:** Metasploit, Kali Linux, John the Ripper
 
 ## Certifications
 
