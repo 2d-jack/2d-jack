@@ -71,7 +71,7 @@ With a background in Computer Science and a deep passion for cybersecurity, I am
 </picture>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=2d-jack&icon=5&color=4)](https://visitcount.itsvg.in)
