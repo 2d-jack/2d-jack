@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Schedule updates every 24 hours
   schedule: [{cron: "0 0 * * *"}]
-  # Allows you to run it manually at any time
   workflow_dispatch:
-  # Run on every push to the main branch
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -13,10 +10,23 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # Step 1: Your existing Isometric Calendar
+      - name: Isometric Calendar
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+      # Step 2: New Achievements Plugin
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X  # 'B' shows common achievements, 'C' shows fewer, 'X' shows all.
