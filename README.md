@@ -7,7 +7,6 @@
   <img src="./metrics.plugin.achievements.svg" alt="Achievements" />
   <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Calendar" />
 </div>
-
 <!-- 
 ![Achievements](metrics.plugin.achievements.svg)
 -->
