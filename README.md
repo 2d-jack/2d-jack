@@ -13,6 +13,15 @@
 ## Objective
 With a background in Computer Science and a deep passion for cybersecurity, I am specializing in DevSecOps, focusing on bridging the gap between development and security through automation, robust defensive strategies, and proactive threat management.
 
+## Certifications
+<div>
+  <img src="https://img.shields.io/badge/-eJPT%20v2-000000?&style=for-the-badge&logo=Insecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ICCA-000000?&style=for-the-badge&logo=Cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jr%20Penetration%20Tester-4A90E2?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cyber%20Security%20101-4A90E2?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pre%20Security-4A90E2?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+</div>
+
 ## Skills
 
 | Skill | Description |
@@ -42,16 +51,6 @@ With a background in Computer Science and a deep passion for cybersecurity, I am
 * **Scanning & Enumeration:** Nmap, Burp Suite, OWASP ZAP
 * **Exploitation & Research:** Metasploit, Kali Linux, John the Ripper
 
-## Certifications
-
-<div>
-  <img src="https://img.shields.io/badge/-eJPT%20v2-000000?&style=for-the-badge&logo=Insecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ICCA-000000?&style=for-the-badge&logo=Cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jr%20Penetration%20Tester-4A90E2?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cyber%20Security%20101-4A90E2?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pre%20Security-4A90E2?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-</div>
-
 ---
 
 ## 🧰 Expertise
@@ -70,6 +69,3 @@ With a background in Computer Science and a deep passion for cybersecurity, I am
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-
-[![2d.jack](https://visitcount.itsvg.in/api?id=2d-jack&icon=5&color=4)](https://visitcount.itsvg.in)
-
