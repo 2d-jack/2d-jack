@@ -3,19 +3,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2d.jack) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakariamd101) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@2d.jack) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/2d.jack) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/2d.jack) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mjack101official@gmail.com) 
 
-# 📊 GitHub Stats
-
-<table border="0">
-  <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=2d-jack&theme=rose&hide_border=false&include_all_commits=true&count_private=true" /></td>
-    <td width="50%"><img src="https://nirzak-streak-stats.vercel.app/?user=2d-jack&theme=rose&hide_border=false" /></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2d-jack&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></td>
-    <td width="50%"><img src="https://github-contributor-stats.vercel.app/api?username=2d-jack&limit=5&theme=rose_pine&combine_all_yearly_contributions=true" /></td>
-  </tr>
-</table>
-
 <div align="center">
   <!-- <img src="./metrics.plugin.achievements.svg" alt="Achievements" />-->
   <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Calendar" />
