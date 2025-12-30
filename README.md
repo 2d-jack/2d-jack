@@ -3,8 +3,9 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2d.jack) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakariamd101) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@2d.jack) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/2d.jack) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/2d.jack) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mjack101official@gmail.com) 
 
-## Objective
+![Isometric Calendar](metrics.plugin.isocalendar.fullyear.svg)
 
+## Objective
 With a background in Computer Science and a deep passion for cybersecurity, I am specializing in DevSecOps, focusing on bridging the gap between development and security through automation, robust defensive strategies, and proactive threat management.
 
 ## Skills
