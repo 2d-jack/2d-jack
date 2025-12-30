@@ -47,6 +47,7 @@ With a background in Computer Science and a deep passion for cybersecurity, I am
   <img src="https://img.shields.io/badge/-Cyber%20Security%20101-4A90E2?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pre%20Security-4A90E2?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </div>
+
 ---
 
 ## 🧰 Expertise
