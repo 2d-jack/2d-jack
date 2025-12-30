@@ -61,18 +61,10 @@ With a background in Computer Science and a deep passion for cybersecurity, I am
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=2d-jack&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
 
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=2d-jack&icon=5&color=4)](https://visitcount.itsvg.in)
+
+[![2d.jack](https://visitcount.itsvg.in/api?id=2d-jack&icon=5&color=4)](https://visitcount.itsvg.in)
 
