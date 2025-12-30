@@ -29,4 +29,4 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: X  # 'B' shows common achievements, 'C' shows fewer, 'X' shows all.
+          plugin_achievements_threshold: X
