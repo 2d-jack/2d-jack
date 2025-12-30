@@ -22,7 +22,7 @@ jobs:
 
       # Step 2: New Achievements Plugin
       - name: Achievements
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@projects-v2
         with:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
